@@ -1,5 +1,10 @@
 # Base64 Encoder/Decoder
 
+[![Try it](https://img.shields.io/badge/Try_it-Spoold-0066CC?style=flat-square)](https://spoold.com/tools/base64)
+[![Free](https://img.shields.io/badge/Free-to_use-brightgreen?style=flat-square)](https://spoold.com/tools/base64)
+[![No sign-up](https://img.shields.io/badge/No_sign--up-required-informational?style=flat-square)](https://spoold.com/tools/base64)
+[![Client-side](https://img.shields.io/badge/Client--side-browser-blue?style=flat-square)](https://spoold.com/tools/base64)
+
 Encode text to Base64 or decode Base64 to text instantly. Supports URL-safe encoding, file uploads, auto-detection, and bidirectional conversion.
 
 ## Features
